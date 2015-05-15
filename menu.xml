@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- menu of pizzaML -->
+<menu>
+	<!-- categories -->
+
+	<!-- pizza category -->
+	<category name="Pizzas">
+	
+		<item name="Tomato&amp;Cheese" large="9.75" small="5.50"/>
+		<item name="Onions" large="10.85" small="6.85"/>
+		<item name="Peppers" large="10.85" small="6.85"/>
+		<item name="Broccoli" large="10.85" small="6.85"/>
+		<item name="FreshGralic" large="10.85" small="6.85"/>
+		<item name="Mushrooms" large="10.85" small="6.85"/>
+		<item name="FreshSpinach" large="10.85" small="6.85"/>
+		<item name="Anchoives" large="10.85" small="6.85"/>
+		<item name="Hamburg" large="10.85" small="6.85"/>
+		<item name="Pepperoni" large="10.85" small="6.85"/>
+		<item name="Sausage" large="10.85" small="6.85"/>
+		<item name="Meatball" large="10.85" small="6.85"/>
+		<item name="Bacon" large="10.85" small="6.85"/>
+		<item name="Ham" large="10.85" small="6.85"/>
+		<item name="Olives" large="10.85" small="6.85"/>
+		<item name="GrilledChicken" large="11.80" small="7.95"/>
+		<item name="Hawaiian" large="11.80" small="7.95"/>
+	</category>
+    
+    <!-- special pizzas -->
+    <category name="SpcialityPizzas">
+        <item name="Mediterranean Sliced Tomatoes, Olives,Spinach, Fresh Gralic,Mozzarella &amp; Feta Cheese" small="9.80" large="15.80"/>
+        <item name="Vegetarian Sliced Tomatoes , onion,Peppers,Mushrooms,Broccoli,Mozzarella" small="9.80" large="15.80"/>
+        <item name="Meat Lovers Pepperoni, Hamburg, Sausage &amp; Bacon" small="9.80" large="15.80"/>
+        <item name="Bdq Frilled Chicken choice of vegetables" small="9.80" large="15.80"/>
+        <item name="Grecian Supreme Grilled Chicken, Feta Cheese, Tomatoes, Kalamata Olives" small="9.80" large="15.80"/>
+    </category>
+</menu>
