@@ -34,4 +34,49 @@
         <item name="Bdq Frilled Chicken choice of vegetables" small="9.80" large="15.80"/>
         <item name="Grecian Supreme Grilled Chicken, Feta Cheese, Tomatoes, Kalamata Olives" small="9.80" large="15.80"/>
     </category>
+    
+    <!-- salads category -->
+    <category name="Salads">
+        <item name="Garden" small="3.50" large="4.50"/>
+        <item name="Greek" small="4.50" large="5.50"/>
+        <item name="Antipasto" small="4.50" large="5.50"/>
+        <item name="Chef" small="4.50" large="5.50"/>
+        <item name="tuna" small="4.50" large="5.50"/>
+        <item name="Grilled Chicken" small="4.95" large="5.95"/>
+    </category>
+    
+    <!-- Grinders -->
+    <category name="Grinders">
+        <item name="MeatLess" small="4.50" large="4.95"/>
+        <item name="Hamburger" small="4.50" large="4.95"/>
+        <item name="Cheeseburger" small="4.75" large="5.75"/>
+        <item name="Meatball" small="4.75" large="5.75"/>
+        <item name="Sausage" small="4.75" large="5.75"/>
+        <item name="American" small="4.75" large="5.75"/>
+        <item name="VealCutlet" small="4.75" large="5.75"/>
+        <item name="HotPastrami" small="4.95" large="5.95"/>
+        <item name="Italian" small="4.75" large="5.75"/>
+        <item name="GenoaSalami" small="4.75" large="5.75"/>
+        <item name="Ham" small="4.75" large="5.75"/>
+        <item name="Tuna" small="4.75" large="5.75"/>
+        <item name="RoastBeef" small="4.95" large="5.95"/>
+        <item name="B.L.T Bacon" small="4.75" large="5.75"/>
+        <item name="SlicedTurkey" small="4.75" large="5.75"/>
+        <item name="Bacon" small="5.30" large="6.40"/>
+        <item name="CheeseSteak" small="5.10" large="6.00"/>
+        <item name="OnionSteak" small="5.20" large="6.20"/>
+        <item name="PepperSteak" small="5.20" large="6.20"/>
+        <item name="MushroomSteak" small="5.20" large="6.20"/>
+        <item name="SpecialSteak" small="5.40" large="6.40"/>
+        <item name="SteakBomb" small="5.50" large="6.50"/>
+        <item name="Pepper&amp;Egg" small="4.50" large="4.95"/>
+        <item name="Ham&amp;Egg" small="4.75" large="5.75"/>
+        <item name="Steak&amp;Egg" small="5.60" large="6.50"/>
+        <item name="Bacon&amp;Egg" small="5.30" large="6.40"/>
+        <item name="ChickenCutlet" small="4.75" large="5.75"/>
+        <item name="EggPlant&amp;Cheese" small="4.75" large="5.75"/>
+        <item name="GrilledChickenDelight" small="5.50" large="6.50"/>
+        <item name="GrilledChickenSub" small="5.25" large="5.85"/>
+        <item name="ChickenFingerSub" small="4.60" large="5.60"/>
+     </category>
 </menu>
