@@ -51,7 +51,7 @@
                         }
             //<!-- salads category -->
 
-                print"<tr> <th>Special Pizza </th> <th> small </th> <th> large </th> </tr>";
+                print"<tr> <th>Salads </th> <th> small </th> <th> large </th> </tr>";
 
                 foreach($dom -> xpath("category[@name='Salads']/item") as $item){
                         print "<tr>";
@@ -69,7 +69,7 @@
                 }
         //<!-- Grinders -->
 
-            print"<tr> <th>Special Pizza </th> <th> small </th> <th> large </th> </tr>";
+            print"<tr> <th>Grinders </th> <th> small </th> <th> large </th> </tr>";
 
             foreach($dom -> xpath("category[@name='Grinders']/item") as $item){
                     print "<tr>";
